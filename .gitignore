@@ -1,0 +1,6 @@
+nvim/plugged
+nvim/pack
+
+polybar/*
+!polybar/launch.sh
+
